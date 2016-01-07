@@ -29,7 +29,7 @@ The details of the item development are provided in the paper. We developed 36 i
 	- valence
 	- intimacy mean and standard deviation (N = 269) as detailed in the paper
 
-## Source Data from Anonymity and Self-disclosure Experiment
+### Source Data from Anonymity and Self-disclosure Experiment
 
 We used the self-disclosure items to run a Mechanical Turk experiment to investigate how the identification and audience features of the social media platform design moderate the relationship between content intimacy and willingness to self-disclose. details of the experiment and participant recruiting are provided in the paper. 
 
