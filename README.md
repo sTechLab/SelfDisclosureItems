@@ -18,7 +18,7 @@ This dataset contains 36 evaluated self-disclosure items (18 positive, 18 negati
 
 (6) Physical Appearance and Sex;
 
-* The self-disclosure-items.csv file contains:
+* The ``self-disclosure-items.csv`` file contains:
 	- id
 	- text
 	- category
@@ -26,15 +26,17 @@ This dataset contains 36 evaluated self-disclosure items (18 positive, 18 negati
 	- intimacy mean and standard deviation (N = 269) as detailed in the paper
 
 
-* The experiment-data.csv contains participant data used in the analysis:
+* The ``experiment-data.csv`` contains participant responses used in the analysis (N = 269) after the filtering process detailed in the paper:
 	- participant id
 	- condition assigned
 	- intimacy rating given by the participant
 	- willingness to self-disclose
 	- age
 	- gender
-	- area of residence (urban/Suburban/Rural)
+	- area of residence (Urban/Suburban/Rural)
 	- social media use (general, Facebook, Twitter, Instagram, Snapchat, Secret, Yik Yak, Whisper)
+
+* The ``experiment-raw.csv`` contains all participant responses (N = 307).
 
 
 ## BibTeX Entry:
