@@ -41,10 +41,10 @@ This dataset contains 36 evaluated self-disclosure items (18 positive, 18 negati
 
 ## BibTeX Entry:
 
-@InProceedings{ma2016,
-  author={Xiao Ma, Jeff Hancock, and Mor Naaman},
+@inproceedings{ma2016,
+  author={Ma,Xiao and Hancock, Jeff and Naaman, Mor},
   title={Anonymity, Intimacy and Self-Disclosure in Social Media},
   booktitle={Proceedings of the 2016 CHI Conference on Human Factors in Computing Systems},
-  series={CHI '16'}
+  series={CHI '16},
   year={2016}
 }
