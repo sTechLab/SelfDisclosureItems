@@ -49,7 +49,7 @@ We used the self-disclosure items to run a Mechanical Turk experiment to investi
 ## BibTeX Entry:
 
 @inproceedings{ma2016anonymity, <br>
-&nbsp;&nbsp;&nbsp;&nbsp; author={Ma, Xiao and Hancock, Jeff and Naaman, Mor}, <br>
+&nbsp;&nbsp;&nbsp;&nbsp; author={Ma, Xiao and Hancock, Jeffrey T and Naaman, Mor}, <br>
 &nbsp;&nbsp;&nbsp;&nbsp; title={Anonymity, Intimacy and Self-Disclosure in Social Media}, <br>
 &nbsp;&nbsp;&nbsp;&nbsp; booktitle={Proceedings of the 2016 CHI Conference on Human Factors in Computing Systems}, <br>
 &nbsp;&nbsp;&nbsp;&nbsp; series={CHI '16}, <br>
